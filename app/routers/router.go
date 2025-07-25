@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"shareitapi/app/routers/users"
+	"sharem8-api/app/controllers/users"
 
 	"github.com/gin-gonic/gin"
 )
